@@ -1,0 +1,5900 @@
+[
+    {
+        "id": "1",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Mateusz Grzeszczyk",
+        "birth": "1766/1768",
+        "birthPlace": "Zusno",
+        "death": "?",
+        "deathPlace": "Szafranki",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "3",
+                "type": "married"
+            },
+            {
+                "id": "2",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "4",
+                "type": "blood"
+            },
+            {
+                "id": "6",
+                "type": "blood"
+            },
+            {
+                "id": "7",
+                "type": "blood"
+            },
+            {
+                "id": "8",
+                "type": "blood"
+            },
+            {
+                "id": "9",
+                "type": "blood"
+            },
+            {
+                "id": "10",
+                "type": "blood"
+            },
+            {
+                "id": "12",
+                "type": "blood"
+            },
+            {
+                "id": "13",
+                "type": "blood"
+            },
+            {
+                "id": "14",
+                "type": "blood"
+            },
+            {
+                "id": "16",
+                "type": "blood"
+            },
+            {
+                "id": "18",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Zuzanna Zalewska",
+        "birth": "1778/1783",
+        "birthPlace": "?",
+        "death": "27.08.1813",
+        "deathPlace": "Szafranki",
+        "info": "akt ur. 40/34",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "1",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "4",
+                "type": "blood"
+            },
+            {
+                "id": "6",
+                "type": "blood"
+            },
+            {
+                "id": "7",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Katarzyna Gordejko",
+        "birth": "1784/1786",
+        "birthPlace": "?",
+        "death": "28.12.1853    ",
+        "deathPlace": "Szafranki",
+        "info": "rodzicie nieznani; akt zg. 1/171",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "1",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "8",
+                "type": "blood"
+            },
+            {
+                "id": "9",
+                "type": "blood"
+            },
+            {
+                "id": "10",
+                "type": "blood"
+            },
+            {
+                "id": "12",
+                "type": "blood"
+            },
+            {
+                "id": "13",
+                "type": "blood"
+            },
+            {
+                "id": "14",
+                "type": "blood"
+            },
+            {
+                "id": "16",
+                "type": "blood"
+            },
+            {
+                "id": "18",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Marcin Grzeszczyk",
+        "birth": "1807",
+        "birthPlace": "Zusno",
+        "death": "1842-1848 ",
+        "deathPlace": "Szafranki",
+        "info": "",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "2",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "6",
+                "type": "blood"
+            },
+            {
+                "id": "7",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "5",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "20",
+                "type": "blood"
+            },
+            {
+                "id": "21",
+                "type": "blood"
+            },
+            {
+                "id": "22",
+                "type": "blood"
+            },
+            {
+                "id": "23",
+                "type": "blood"
+            },
+            {
+                "id": "24",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Marianna Drobiszewska",
+        "birth": "1804",
+        "birthPlace": "Zusno",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "4",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "20",
+                "type": "blood"
+            },
+            {
+                "id": "21",
+                "type": "blood"
+            },
+            {
+                "id": "22",
+                "type": "blood"
+            },
+            {
+                "id": "23",
+                "type": "blood"
+            },
+            {
+                "id": "24",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Marianna Grzeszczyk",
+        "birth": "07.12.1808",
+        "birthPlace": "Szafranki",
+        "death": "? ",
+        "deathPlace": "?",
+        "info": "akt ur. 80/xx",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "2",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "4",
+                "type": "blood"
+            },
+            {
+                "id": "7",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "7",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "nn",
+        "birth": "14.11.1811",
+        "birthPlace": "Szafranki",
+        "death": "14.11.1811 ",
+        "deathPlace": "Szafranki",
+        "info": "Grzeszczyka Mateusza syn nieżywy urodzony, akt zg. 90/64",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "2",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "4",
+                "type": "blood"
+            },
+            {
+                "id": "6",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "8",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Michał Grzeszczyk",
+        "birth": "07.09.1814",
+        "birthPlace": "Szafranki",
+        "death": "06.05.1843",
+        "deathPlace": "Szafranki",
+        "info": "u. Szafranki 3, zm. parobek, kawaler; akt. ur. 13; akt. śm. 11; ",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "3",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "9",
+                "type": "blood"
+            },
+            {
+                "id": "10",
+                "type": "blood"
+            },
+            {
+                "id": "12",
+                "type": "blood"
+            },
+            {
+                "id": "13",
+                "type": "blood"
+            },
+            {
+                "id": "14",
+                "type": "blood"
+            },
+            {
+                "id": "16",
+                "type": "blood"
+            },
+            {
+                "id": "18",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "9",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Jakób Grzegorz Grzeszczyk",
+        "birth": "08.03.1816",
+        "birthPlace": "Szafranki",
+        "death": "23.03.1816",
+        "deathPlace": "Szafranki",
+        "info": "żył 2 tygodnie ",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "3",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "8",
+                "type": "blood"
+            },
+            {
+                "id": "10",
+                "type": "blood"
+            },
+            {
+                "id": "12",
+                "type": "blood"
+            },
+            {
+                "id": "13",
+                "type": "blood"
+            },
+            {
+                "id": "14",
+                "type": "blood"
+            },
+            {
+                "id": "16",
+                "type": "blood"
+            },
+            {
+                "id": "18",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "10",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Marianna Grzeszczyk",
+        "birth": "13.04.1817",
+        "birthPlace": "Szafranki",
+        "death": "13.01.1838",
+        "deathPlace": "Szafranki",
+        "info": "akt ur. 48/24; ślub 30.05.1844 w Filipowie ",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "3",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "8",
+                "type": "blood"
+            },
+            {
+                "id": "9",
+                "type": "blood"
+            },
+            {
+                "id": "12",
+                "type": "blood"
+            },
+            {
+                "id": "13",
+                "type": "blood"
+            },
+            {
+                "id": "14",
+                "type": "blood"
+            },
+            {
+                "id": "16",
+                "type": "blood"
+            },
+            {
+                "id": "18",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "11",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "11",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Marcin Anuszkiewicz",
+        "birth": "1816",
+        "birthPlace": "Bakaniuk",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "ślub 30.05.1844 w Filipowie ",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "10",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "12",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Jakub Grzeszczyk",
+        "birth": "15.07.1819",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 86/35",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "3",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "8",
+                "type": "blood"
+            },
+            {
+                "id": "9",
+                "type": "blood"
+            },
+            {
+                "id": "10",
+                "type": "blood"
+            },
+            {
+                "id": "13",
+                "type": "blood"
+            },
+            {
+                "id": "14",
+                "type": "blood"
+            },
+            {
+                "id": "16",
+                "type": "blood"
+            },
+            {
+                "id": "18",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "13",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Paweł Grzeszczyk",
+        "birth": "05.05.1821",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 74/23",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "3",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "8",
+                "type": "blood"
+            },
+            {
+                "id": "9",
+                "type": "blood"
+            },
+            {
+                "id": "10",
+                "type": "blood"
+            },
+            {
+                "id": "12",
+                "type": "blood"
+            },
+            {
+                "id": "14",
+                "type": "blood"
+            },
+            {
+                "id": "16",
+                "type": "blood"
+            },
+            {
+                "id": "18",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "14",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Anna Marianna Grzeszczyk",
+        "birth": "10.01.1824",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 10/4; ślub 25.11.1850, Filipów, akt 26/102",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "3",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "8",
+                "type": "blood"
+            },
+            {
+                "id": "9",
+                "type": "blood"
+            },
+            {
+                "id": "10",
+                "type": "blood"
+            },
+            {
+                "id": "12",
+                "type": "blood"
+            },
+            {
+                "id": "13",
+                "type": "blood"
+            },
+            {
+                "id": "16",
+                "type": "blood"
+            },
+            {
+                "id": "18",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "15",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "15",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Mateusz Zieliński",
+        "birth": "1831",
+        "birthPlace": "Wólka",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "ślub 25.11.1850, Filipów, akt 26/102",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "14",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "16",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Katarzyna Grzeszczyk",
+        "birth": "1826",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "ślub 1847, Filipów, akt 31/103",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "3",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "8",
+                "type": "blood"
+            },
+            {
+                "id": "9",
+                "type": "blood"
+            },
+            {
+                "id": "10",
+                "type": "blood"
+            },
+            {
+                "id": "12",
+                "type": "blood"
+            },
+            {
+                "id": "13",
+                "type": "blood"
+            },
+            {
+                "id": "14",
+                "type": "blood"
+            },
+            {
+                "id": "18",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "17",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "17",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Franciszek Renkiewicz",
+        "birth": "1827",
+        "birthPlace": "Morsztynowizna",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "w  dniu ślubu zam. Szafranki,",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "16",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "18",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Wojciech Grzeszczyk",
+        "birth": "17.07.1929",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 82/29; ślub: 31.01.1848, Filipów (ojciec nie żyje, matka żyje)",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "3",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "8",
+                "type": "blood"
+            },
+            {
+                "id": "9",
+                "type": "blood"
+            },
+            {
+                "id": "10",
+                "type": "blood"
+            },
+            {
+                "id": "12",
+                "type": "blood"
+            },
+            {
+                "id": "13",
+                "type": "blood"
+            },
+            {
+                "id": "14",
+                "type": "blood"
+            },
+            {
+                "id": "16",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "19",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "140",
+                "type": "blood"
+            },
+            {
+                "id": "141",
+                "type": "blood"
+            },
+            {
+                "id": "142",
+                "type": "blood"
+            },
+            {
+                "id": "143",
+                "type": "blood"
+            },
+            {
+                "id": "144",
+                "type": "blood"
+            }, 
+            {
+                "id": "145",
+                "type": "blood"
+            }, 
+            {
+                "id": "146",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Katarzyna Masalska",
+        "birth": "3.11.1823",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 155/59; ślub: ojciec żyje, matka nie",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "18",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "140",
+                "type": "blood"
+            },
+            {
+                "id": "141",
+                "type": "blood"
+            },
+            {
+                "id": "142",
+                "type": "blood"
+            },
+            {
+                "id": "143",
+                "type": "blood"
+            },
+            {
+                "id": "144",
+                "type": "blood"
+            }, 
+            {
+                "id": "145",
+                "type": "blood"
+            }, 
+            {
+                "id": "146",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Marianna Grzeszczyk",
+        "birth": "1834/1835",
+        "birthPlace": "Filipów",
+        "death": "13.1.1838",
+        "deathPlace": "Filipów",
+        "info": "akt śm. 2/67; zm. 3 lata",
+        "parents": [
+            {
+                "id": "4",
+                "type": "blood"
+            },
+            {
+                "id": "5",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "21",
+                "type": "blood"
+            },
+            {
+                "id": "22",
+                "type": "blood"
+            },
+            {
+                "id": "23",
+                "type": "blood"
+            },
+            {
+                "id": "24",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "21",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Anna Grzeszczyk",
+        "birth": "1837/38",
+        "birthPlace": "Filipów",
+        "death": "6.12.1838",
+        "deathPlace": "Filipów",
+        "info": "akt śm. 57/83; zm. 10 m.",
+        "parents": [
+            {
+                "id": "4",
+                "type": "blood"
+            },
+            {
+                "id": "5",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "20",
+                "type": "blood"
+            },
+            {
+                "id": "22",
+                "type": "blood"
+            },
+            {
+                "id": "23",
+                "type": "blood"
+            },
+            {
+                "id": "24",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "22",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Franciszka Grzeszczyk",
+        "birth": "04.12.1839",
+        "birthPlace": "Filipów",
+        "death": "04.02.1850",
+        "deathPlace": "Filipów",
+        "info": "akt śm. 14/139",
+        "parents": [
+            {
+                "id": "4",
+                "type": "blood"
+            },
+            {
+                "id": "5",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "20",
+                "type": "blood"
+            },
+            {
+                "id": "21",
+                "type": "blood"
+            },
+            {
+                "id": "23",
+                "type": "blood"
+            },
+            {
+                "id": "24",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "23",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Katarzyna Grzeszczyk",
+        "birth": "07.08.1842",
+        "birthPlace": "Filipów",
+        "death": "20.11.1848",
+        "deathPlace": "Filipów",
+        "info": "żyła lat 6",
+        "parents": [
+            {
+                "id": "4",
+                "type": "blood"
+            },
+            {
+                "id": "5",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "20",
+                "type": "blood"
+            },
+            {
+                "id": "21",
+                "type": "blood"
+            },
+            {
+                "id": "22",
+                "type": "blood"
+            },
+            {
+                "id": "24",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "24",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Franciszek Grzeszczyk",
+        "birth": "06.12.1843",
+        "birthPlace": "Filipów",
+        "death": "16.03.1898",
+        "deathPlace": "Łanowicze",
+        "info": "akt ur. 43/xx; ślub: 10.11.1884, Hutta",
+        "parents": [
+            {
+                "id": "4",
+                "type": "blood"
+            },
+            {
+                "id": "5",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "20",
+                "type": "blood"
+            },
+            {
+                "id": "21",
+                "type": "blood"
+            },
+            {
+                "id": "22",
+                "type": "blood"
+            },
+            {
+                "id": "23",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "25",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "26",
+                "type": "blood"
+            },
+            {
+                "id": "27",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            },
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "30",
+                "type": "blood"
+            },
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "32",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Monika Romanowska",
+        "birth": "10.5.1859",
+        "birthPlace": "Przerośl",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "córka robotników",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "24",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "26",
+                "type": "blood"
+            },
+            {
+                "id": "27",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            },
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "30",
+                "type": "blood"
+            },
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "32",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Aleksandra Grzeszczyk",
+        "birth": "9.5.1885",
+        "birthPlace": "Gutta (Huta)",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [
+            {
+                "id": "24",
+                "type": "blood"
+            },
+            {
+                "id": "25",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "27",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            },
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "30",
+                "type": "blood"
+            },
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "32",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "27",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Marianna Grzeszczyk",
+        "birth": "22.11.1886",
+        "birthPlace": "Gutta (Huta)",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "ślub: 26.11.1907, Filipów; wyjechała do USA",
+        "parents": [
+            {
+                "id": "24",
+                "type": "blood"
+            },
+            {
+                "id": "25",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "26",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            },
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "30",
+                "type": "blood"
+            },
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "32",
+                "type": "blood"
+            }
+        ],
+        "spouses": [{
+            "id": "33",
+            "type": "blood"
+        }],
+        "children": []
+    },
+    {
+        "id": "28",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Anna Grzeszczyk",
+        "birth": "14.8.1889",
+        "birthPlace": "Kalinowo",
+        "death": "15.11.1972",
+        "deathPlace": "Filipów",
+        "info": "Dzieci z Wacławem Feliksem Samotyhą prawdopodobnie bez ślubu",
+        "parents": [
+            {
+                "id": "24",
+                "type": "blood"
+            },
+            {
+                "id": "25",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "26",
+                "type": "blood"
+            },
+            {
+                "id": "27",
+                "type": "blood"
+            },
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "30",
+                "type": "blood"
+            },
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "32",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "35",
+                "type": "married"
+            },
+            {
+                "id": "34",
+                "type": "divorced"
+            }
+            
+        ],
+        "children": [
+            {
+                "id": "40",
+                "type": "blood"
+            },
+            {
+                "id": "41",
+                "type": "blood"
+            },
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "43",
+                "type": "blood"
+            },
+            {
+                "id": "44",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Józef Grzeszczyk",
+        "birth": "29.12.1891",
+        "birthPlace": "Gutta (Huta)",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [
+            {
+                "id": "24",
+                "type": "blood"
+            },
+            {
+                "id": "25",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "26",
+                "type": "blood"
+            },
+            {
+                "id": "27",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            },
+            {
+                "id": "30",
+                "type": "blood"
+            },
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "32",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "36",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "110",
+                "type": "blood"
+            },
+            {
+                "id": "111",
+                "type": "blood"
+            },
+            {
+                "id": "112",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Kazimierz Grzeszczyk",
+        "birth": "15.02.1896",
+        "birthPlace": "Łanowicze Rządowe",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "-",
+        "parents": [
+            {
+                "id": "24",
+                "type": "blood"
+            },
+            {
+                "id": "25",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "26",
+                "type": "blood"
+            },
+            {
+                "id": "27",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            },
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "32",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "37",
+                "type": "married"
+            },
+            {
+                "id": "38",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "134",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Julian Grzeszczyk",
+        "birth": "04.04.1898",
+        "birthPlace": "Łanowicze Rządowe",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "-",
+        "parents": [
+            {
+                "id": "24",
+                "type": "blood"
+            },
+            {
+                "id": "25",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "26",
+                "type": "blood"
+            },
+            {
+                "id": "27",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            },
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "30",
+                "type": "blood"
+            },
+            {
+                "id": "32",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "39",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "135",
+                "type": "blood"
+            },
+            {
+                "id": "136",
+                "type": "blood"
+            },
+            {
+                "id": "137",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Stanisław Grzeszczyk",
+        "birth": "24.10.1893",
+        "birthPlace": "Łanowicze Rządowe",
+        "death": "31.03.1914",
+        "deathPlace": "?",
+        "info": "-",
+        "parents": [
+            {
+                "id": "24",
+                "type": "blood"
+            },
+            {
+                "id": "25",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "26",
+                "type": "blood"
+            },
+            {
+                "id": "27",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            },
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "30",
+                "type": "blood"
+            },
+            {
+                "id": "31",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "33",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Szczepan Adam Złotorzyński",
+        "birth": "21.12.1887",
+        "birthPlace": "Filipów",
+        "death": "",
+        "deathPlace": "?",
+        "info": "wyjechał do USA; syn Ignacego i Marianny (z d. Dąbrowskiej)",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "27",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "34",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Wacław Feliks Samotyha",
+        "birth": "1883",
+        "birthPlace": "Raczki",
+        "death": "",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "28",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "40",
+                "type": "blood"
+            },
+            {
+                "id": "41",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Jan Sierocki",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "28",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "43",
+                "type": "blood"
+            },
+            {
+                "id": "44",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "nn",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "29",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "110",
+                "type": "blood"
+            },
+            {
+                "id": "111",
+                "type": "blood"
+            },
+            {
+                "id": "112",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Anna Bagińska",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "15.12.1917",
+        "deathPlace": "Dubowo",
+        "info": "ślub: 8.11.1915, Dubowo/Suwałki",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "30",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "134",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Franciszka Masalska",
+        "birth": "1894",
+        "birthPlace": "Dubowo",
+        "death": "22.11.1919",
+        "deathPlace": "Dubowo",
+        "info": " Slub: 11.02.1919, Suwałki, akt 38/xx",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "30",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "39",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Zofia Bagińska",
+        "birth": "1899",
+        "birthPlace": "Dubowo",
+        "death": "?",
+        "deathPlace": "?",
+        "info": " Slub: 29.01.1918, Suwałki, akt 11/xx",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "31",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "135",
+                "type": "blood"
+            },
+            {
+                "id": "136",
+                "type": "blood"
+            },
+            {
+                "id": "137",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Stanisław Julian Grzeszczyk",
+        "birth": "13.01.1911",
+        "birthPlace": "Filipów",
+        "death": "07.06.1978",
+        "deathPlace": "Filipów",
+        "info": "",
+        "parents": [
+            {
+                "id": "34",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "41",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "45",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "49",
+                "type": "blood"
+            },
+            {
+                "id": "50",
+                "type": "blood"
+            },
+            {
+                "id": "51",
+                "type": "blood"
+            },
+            {
+                "id": "52",
+                "type": "blood"
+            },
+            {
+                "id": "53",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Regina Grzeszczyk",
+        "birth": "21.06.1913",
+        "birthPlace": "Filipów",
+        "death": "02.05.2001",
+        "deathPlace": "Filipów",
+        "info": "akt ur. 116/xx",
+        "parents": [
+            {
+                "id": "34",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "40",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "46",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "87",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Franciszek Sierocki",
+        "birth": "1925",
+        "birthPlace": "Filipów",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [
+            {
+                "id": "35",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "43",
+                "type": "blood"
+            },
+            {
+                "id": "44",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "47",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "99",
+                "type": "blood"
+            },
+            {
+                "id": "100",
+                "type": "blood"
+            },
+            {
+                "id": "101",
+                "type": "blood"
+            },
+            {
+                "id": "102",
+                "type": "blood"
+            },
+            {
+                "id": "103",
+                "type": "blood"
+            },
+            {
+                "id": "104",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Kazimierz Sierocki",
+        "birth": "?",
+        "birthPlace": "Filipów",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [
+            {
+                "id": "35",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "44",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "48",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "105",
+                "type": "blood"
+            },
+            {
+                "id": "106",
+                "type": "blood"
+            },
+            {
+                "id": "107",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Eugeniusz Sierocki",
+        "birth": "?",
+        "birthPlace": "Filipów",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "w wieku 18 lat pobity, zwariował",
+        "parents": [
+            {
+                "id": "35",
+                "type": "blood"
+            },
+            {
+                "id": "28",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "43",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "45",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Franciszka Malinowska",
+        "birth": "02.08.1910",
+        "birthPlace": "Motule",
+        "death": "30.05.1974",
+        "deathPlace": "Filipów",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "40",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "49",
+                "type": "blood"
+            },
+            {
+                "id": "50",
+                "type": "blood"
+            },
+            {
+                "id": "51",
+                "type": "blood"
+            },
+            {
+                "id": "52",
+                "type": "blood"
+            },
+            {
+                "id": "53",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Jan Dubnicki",
+        "birth": "1913",
+        "birthPlace": "Janówka",
+        "death": "29.11.1976",
+        "deathPlace": "Filipów",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "41",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "87",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Jadwiga Skindziul",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "42",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "99",
+                "type": "blood"
+            },
+            {
+                "id": "100",
+                "type": "blood"
+            },
+            {
+                "id": "101",
+                "type": "blood"
+            },
+            {
+                "id": "102",
+                "type": "blood"
+            },
+            {
+                "id": "103",
+                "type": "blood"
+            },
+            {
+                "id": "104",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "nn",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "43",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "105",
+                "type": "blood"
+            },
+            {
+                "id": "106",
+                "type": "blood"
+            },
+            {
+                "id": "107",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Heronima Grzeszczyk",
+        "birth": "1935",
+        "birthPlace": "Filipów",
+        "death": "1942",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [
+            {
+                "id": "40",
+                "type": "blood"
+            },
+            {
+                "id": "45",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "50",
+                "type": "blood"
+            },
+            {
+                "id": "51",
+                "type": "blood"
+            },
+            {
+                "id": "52",
+                "type": "blood"
+            },
+            {
+                "id": "53",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "50",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Stanisław Grzeszczyk",
+        "birth": "1932",
+        "birthPlace": "Filipów",
+        "death": "1942",
+        "deathPlace": "?",
+        "info": "",
+        "parents": [
+            {
+                "id": "40",
+                "type": "blood"
+            },
+            {
+                "id": "45",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "49",
+                "type": "blood"
+            },
+            {
+                "id": "51",
+                "type": "blood"
+            },
+            {
+                "id": "52",
+                "type": "blood"
+            },
+            {
+                "id": "53",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "51",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Czesław Grzeszczyk",
+        "birth": "1947",
+        "birthPlace": "Filipów",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Białystok",
+        "parents": [
+            {
+                "id": "40",
+                "type": "blood"
+            },
+            {
+                "id": "45",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "49",
+                "type": "blood"
+            },
+            {
+                "id": "50",
+                "type": "blood"
+            },
+            {
+                "id": "52",
+                "type": "blood"
+            },
+            {
+                "id": "53",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "54",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "84",
+                "type": "blood"
+            },
+            {
+                "id": "85",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Teresa Czesława Grzeszczyk",
+        "birth": "1950",
+        "birthPlace": "Filipów",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Suchorzecz | Bakałarzewo",
+        "parents": [
+            {
+                "id": "40",
+                "type": "blood"
+            },
+            {
+                "id": "45",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "49",
+                "type": "blood"
+            },
+            {
+                "id": "50",
+                "type": "blood"
+            },
+            {
+                "id": "51",
+                "type": "blood"
+            },
+            {
+                "id": "53",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "55",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "71",
+                "type": "blood"
+            },
+            {
+                "id": "72",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "gender": "female",
+        "image": "https://scontent-frx5-1.xx.fbcdn.net/v/t1.6435-9/28577024_2109893539037352_1193262010704330752_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=8Y6R_QI77sAAX_jYG8E&_nc_ht=scontent-frx5-1.xx&oh=00_AT8_1l5gzMmzP-O92HUyJNfEiP8mmRWNFlaflAvzfeXrgA&oe=62EA6EFF",
+        "name": "Danuta Grzeszczyk",
+        "birth": "7.9.1951",
+        "birthPlace": "Filipów",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Mieruniszki | Garbaś | Wasilków",
+        "parents": [
+            {
+                "id": "40",
+                "type": "blood"
+            },
+            {
+                "id": "45",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "49",
+                "type": "blood"
+            },
+            {
+                "id": "50",
+                "type": "blood"
+            },
+            {
+                "id": "51",
+                "type": "blood"
+            },
+            {
+                "id": "52",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "56",
+                "type": "divorced"
+            },
+            {
+                "id": "57",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "58",
+                "type": "blood"
+            },
+            {
+                "id": "59",
+                "type": "blood"
+            },
+            {
+                "id": "60",
+                "type": "blood"
+            },
+            {
+                "id": "61",
+                "type": "blood"
+            },
+            {
+                "id": "62",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Janina ...",
+        "birth": "18.03.1951",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Białystok | USA",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "51",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "84",
+                "type": "blood"
+            },
+            {
+                "id": "85",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Edward Domin",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Suchorzecz | Bakałarzewo",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "52",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "71",
+                "type": "blood"
+            },
+            {
+                "id": "72",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Jan Witkowski",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "53",
+                "type": "divorced"
+            }
+        ],
+        "children": [
+            {
+                "id": "58",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Jan Kibitlewski",
+        "birth": "06.01.1949",
+        "birthPlace": "Filipów",
+        "death": "08.06.2013",
+        "deathPlace": "Sosnowiec",
+        "info": "",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "53",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "59",
+                "type": "blood"
+            },
+            {
+                "id": "60",
+                "type": "blood"
+            },
+            {
+                "id": "61",
+                "type": "blood"
+            },
+            {
+                "id": "62",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Grzegorz Witkowski",
+        "birth": "11.11.1972",
+        "birthPlace": "Filipów",
+        "death": "01.12.1972",
+        "deathPlace": "Suwałki",
+        "info": "żył około 3 tyg - 1 mies.",
+        "parents": [
+            
+            {
+                "id": "53",
+                "type": "blood"
+            },
+            {
+                "id": "56",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "59",
+        "gender": "male",
+        "image": "https://scontent-frx5-2.xx.fbcdn.net/v/t1.18169-9/10712810_958566037494134_2858993743923371697_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=0eegtm0-KskAX_FUS9k&_nc_oc=AQkBsxuIqOZFKFkEKWquvGV_MRpqNHUUCGq7pf0t6qb-loZF0RjRsNEt6npryskdy7I&_nc_ht=scontent-frx5-2.xx&oh=00_AT-2_RQQWmlKUe84vRH6oKIagnxY-XMkJzEtNDfeY5IgRQ&oe=62ED8EBB",
+        "name": "Wojciech Kibitlewski",
+        "birth": "05.07.1975",
+        "birthPlace": "Filipów",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Katowice",
+        "parents": [
+            {
+                "id": "53",
+                "type": "blood"
+            },
+            {
+                "id": "57",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "60",
+                "type": "blood"
+            },
+            {
+                "id": "61",
+                "type": "blood"
+            },
+            {
+                "id": "62",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "63",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "66",
+                "type": "blood"
+            },
+            {
+                "id": "67",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "60",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Paweł Kibitlewski",
+        "birth": "12.03.1977",
+        "birthPlace": "Filipów",
+        "death": "23.05.2022",
+        "deathPlace": "Baarlo | Holandia",
+        "info": "zam. Sosnowiec | Drammen (Norwegia); zm. wypadek samochodowy",
+        "parents": [
+            {
+                "id": "53",
+                "type": "blood"
+            },
+            {
+                "id": "57",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "59",
+                "type": "blood"
+            },
+            {
+                "id": "61",
+                "type": "blood"
+            },
+            {
+                "id": "62",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "64",
+                "type": "divorced"
+            }
+        ],
+        "children": [
+            {
+                "id": "68",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "61",
+        "gender": "male",
+        "image": "https://scontent-frx5-1.xx.fbcdn.net/v/t39.30808-1/247066683_10220092226795401_661470005975428371_n.jpg?stp=c0.43.320.320a_dst-jpg_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_ohc=B9ul8A6iB6MAX8AKPpH&_nc_ht=scontent-frx5-1.xx&oh=00_AT8VG3KTzmUmwegO5g0CWdhCOGonMmkNAd0l2QAD-Vp3-A&oe=62CBF9E1",
+        "name": "Marcin Kibitlewski",
+        "birth": "22.12.1980",
+        "birthPlace": "Filipów",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Białystok",
+        "parents": [
+            {
+                "id": "53",
+                "type": "blood"
+            },
+            {
+                "id": "57",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "59",
+                "type": "blood"
+            },
+            {
+                "id": "60",
+                "type": "blood"
+            },
+            {
+                "id": "62",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "65",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "69",
+                "type": "blood"
+            },
+            {
+                "id": "70",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "62",
+        "gender": "male",
+        "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t31.18172-8/26951719_10215739930474563_8506429689223548280_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=SI8fnmirWXMAX-3pmrY&tn=SD7CBC9wPEIYvTcS&_nc_ht=scontent-frt3-1.xx&oh=00_AT_oC5uQMjQwHtW5nWLXgx1aN_wEeb56YQpLNWpngh1j-Q&oe=62ECF2C3",
+        "name": "Daniel Kibitlewski",
+        "birth": "30.8.1984",
+        "birthPlace": "Filipów",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Berlin",
+        "parents": [
+            {
+                "id": "53",
+                "type": "blood"
+            },
+            {
+                "id": "57",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "59",
+                "type": "blood"
+            },
+            {
+                "id": "60",
+                "type": "blood"
+            },
+            {
+                "id": "61",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "63",
+        "gender": "female",
+        "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.18169-9/293891_3892379381470_248631740_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=wh-h3QBwp0oAX-vOrOY&_nc_ht=scontent-frt3-1.xx&oh=00_AT_AmZ8Ynlu1KdiCSr-NUBpczFH2QVRYPvA-oy2sCY_KmA&oe=62ED60C7",
+        "name": "Agnieszka Anna Mandal",
+        "birth": "16.09.1981",
+        "birthPlace": "Bielsko-Biała",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Katowice",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "59",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "66",
+                "type": "blood"
+            },
+            {
+                "id": "67",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "64",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Agnieszka Kosmala",
+        "birth": "09.1975",
+        "birthPlace": "Sosnowiec",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Sosnowiec | Drammen (Norwegia)",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "60",
+                "type": "divorced"
+            }
+        ],
+        "children": [
+            {
+                "id": "68",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "65",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Ewa Romaniuk",
+        "birth": "26.09.1984",
+        "birthPlace": "Białystok",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Białystok",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "61",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "69",
+                "type": "blood"
+            },
+            {
+                "id": "70",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Róża Jaśmina Kibitlewska",
+        "birth": "07.04.2015",
+        "birthPlace": "Katowice",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Katowice",
+        "parents": [
+            {
+                "id": "59",
+                "type": "blood"
+            },
+            {
+                "id": "63",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "67",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "67",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+         "name": "Jeremi Edward Kibitlewski",
+        "birth": "29.10.2017",
+        "birthPlace": "Katowice",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Katowice",
+        "parents": [
+            {
+                "id": "59",
+                "type": "blood"
+            },
+            {
+                "id": "63",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "66",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "68",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+         "name": "Kamil Kibitlewski",
+        "birth": "1999",
+        "birthPlace": "Sosnowiec",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Drammen (Norwegia)",
+        "parents": [
+            {
+                "id": "60",
+                "type": "blood"
+            },
+            {
+                "id": "64",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "69",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Paulina Kibitlewska",
+        "birth": "2013",
+        "birthPlace": "Białystok",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "61",
+                "type": "blood"
+            },
+            {
+                "id": "65",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "70",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "70",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Natalia Kibitlewska",
+        "birth": "2017",
+        "birthPlace": "Białystok",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "61",
+                "type": "blood"
+            },
+            {
+                "id": "65",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "69",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "71",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Renata Domin",
+        "birth": "1971",
+        "birthPlace": "Suchorzecz",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "52",
+                "type": "blood"
+            },
+            {
+                "id": "55",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "72",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "73",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "77",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Małgorzata Domin",
+        "birth": "1974",
+        "birthPlace": "Suchorzecz",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "52",
+                "type": "blood"
+            },
+            {
+                "id": "55",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "71",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "74",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "79",
+                "type": "blood"
+            },
+            {
+                "id": "80",
+                "type": "blood"
+            },
+            {
+                "id": "81",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "73",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Tadeusz Tomkiewicz",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "71",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "77",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "74",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Stanisław Grzędziński",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "72",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "79",
+                "type": "blood"
+            },
+            {
+                "id": "80",
+                "type": "blood"
+            },
+            {
+                "id": "81",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "77",
+        "gender": "female",
+        "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t39.30808-6/243265427_1638461583018765_3391410328711684347_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Daqseh8Mgy0AX8w6yjN&tn=SD7CBC9wPEIYvTcS&_nc_ht=scontent-frt3-1.xx&oh=00_AT9rvzA24MjsbE806dcr5kjBRg1qKz8kOewI_JqdMF45tg&oe=62CCA588",
+        "name": "Klaudia Tomkiewicz",
+        "birth": "04.2003",
+        "birthPlace": "Skazdub",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Suwałki",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "78",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "83",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "78",
+        "gender": "male",
+        "image": "https://scontent-frx5-1.xx.fbcdn.net/v/t1.6435-9/69801429_1075873392610923_7163004726642999296_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=19026a&_nc_ohc=TgvfFJB72tAAX9k5oqw&_nc_ht=scontent-frx5-1.xx&oh=00_AT-5ebqc4Xu5I8g3Td4yW11Y68VV7w76jc7X642fBESc2w&oe=62ECACD8",
+        "name": "Krzysztof Świerzbinowicz",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": " zam. Suwałki",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "77",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "83",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "79",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Daniel Grzędziński",
+        "birth": "?",
+        "birthPlace": "Suchorzecz",
+        "death": "2013",
+        "deathPlace": "Suchorzecz",
+        "info": "",
+        "parents": [
+            {
+                "id": "74",
+                "type": "blood"
+            },
+            {
+                "id": "72",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "80",
+                "type": "blood"
+            },
+            {
+                "id": "81",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "80",
+        "gender": "female",
+        "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t39.30808-6/283577074_5035817683205447_1689032282109751740_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=rChs3-q6FWUAX8eHYT3&_nc_ht=scontent-frt3-1.xx&oh=00_AT-EcFQKyMpyE6Z_TQ4xN1AL2RCpJw1pR6dr912APUFCjA&oe=62CADDAF",
+        "name": "Urszula Grzędzińska",
+        "birth": "?",
+        "birthPlace": "Suchorzecz",
+        "death": "",
+        "deathPlace": "",
+        "info": "",
+        "parents": [
+            {
+                "id": "74",
+                "type": "blood"
+            },
+            {
+                "id": "72",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "79",
+                "type": "blood"
+            },
+            {
+                "id": "81",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": [
+            {
+                "id": "82",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "81",
+        "gender": "male",
+        "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.18169-9/25551856_133629503979692_4805163128918791830_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_ohc=hAEhoVAhjBwAX_nAsni&_nc_ht=scontent-frt3-1.xx&oh=00_AT-gG-nvlvyMlmTJBgKcySeepaRD7T9vrg9FuRUHbii-EQ&oe=62EB49D9",
+        "name": "Karol Grzędziński",
+        "birth": "27.02.1999",
+        "birthPlace": "Suchorzecz",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Bakałarzewo",
+        "parents": [
+            {
+                "id": "74",
+                "type": "blood"
+            },
+            {
+                "id": "72",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "79",
+                "type": "blood"
+            },
+            {
+                "id": "80",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "82",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Nicola Grzędziński",
+        "birth": "2014",
+        "birthPlace": "Suchorzecz",
+        "death": "",
+        "deathPlace": "",
+        "info": "",
+        "parents": [
+            {
+                "id": "80",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "83",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Świerzbinowicz",
+        "birth": "2022",
+        "birthPlace": "Suwałki",
+        "death": "",
+        "deathPlace": "",
+        "info": "",
+        "parents": [
+            {
+                "id": "77",
+                "type": "blood"
+            },
+            {
+                "id": "78",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "84",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Iwona Grzeszczyk",
+        "birth": "1975",
+        "birthPlace": "Białystok",
+        "death": "",
+        "deathPlace": "",
+        "info": "USA",
+        "parents": [
+            {
+                "id": "51",
+                "type": "blood"
+            },
+            {
+                "id": "54",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "85",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "86",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "85",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Beata Grzeszczyk",
+        "birth": "1981",
+        "birthPlace": "Białystok",
+        "death": "",
+        "deathPlace": "",
+        "info": "Białystok",
+        "parents": [
+            {
+                "id": "51",
+                "type": "blood"
+            },
+            {
+                "id": "54",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "84",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "86",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Arkadiusz Wiśniewski",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "USA",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "84",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "87",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Zdzisław Dubnicki",
+        "birth": "?",
+        "birthPlace": "Filipów",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Suwałki",
+        "parents": [
+            {
+                "id": "46",
+                "type": "blood"
+            },
+            {
+                "id": "41",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "88",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "89",
+                "type": "boold"
+            },
+            {
+                "id": "90",
+                "type": "boold"
+            },
+            {
+                "id": "91",
+                "type": "boold"
+            }
+        ]
+    },
+    {
+        "id": "88",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Danuta Prokopowicz",
+        "birth": "1950",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Suwałki",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "87",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "89",
+                "type": "boold"
+            },
+            {
+                "id": "90",
+                "type": "boold"
+            },
+            {
+                "id": "91",
+                "type": "boold"
+            }
+        ]
+    },
+    {
+        "id": "89",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Grzegorz Dubnicki",
+        "birth": "1971",
+        "birthPlace": "Suwałki",
+        "death": "",
+        "deathPlace": "",
+        "info": "",
+        "parents": [
+            {
+                "id": "87",
+                "type": "boold"
+            },
+            {
+                "id": "88",
+                "type": "boold"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "90",
+                "type": "boold"
+            },
+            {
+                "id": "91",
+                "type": "boold"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "92",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "95",
+                "type": "blood"
+            },
+            {
+                "id": "96",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "90",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Barbara Dubnicka",
+        "birth": "22.05.1975",
+        "birthPlace": "Suwałki",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Warszawa",
+        "parents": [
+            {
+                "id": "87",
+                "type": "boold"
+            },
+            {
+                "id": "88",
+                "type": "boold"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "89",
+                "type": "boold"
+            },
+            {
+                "id": "91",
+                "type": "boold"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "93",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "91",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Bogdan Dubnicki",
+        "birth": "1985",
+        "birthPlace": "Suwałki",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Warszawa",
+        "parents": [
+            {
+                "id": "87",
+                "type": "boold"
+            },
+            {
+                "id": "88",
+                "type": "boold"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "89",
+                "type": "boold"
+            },
+            {
+                "id": "90",
+                "type": "boold"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "94",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "97",
+                "type": "blood"
+            },
+            {
+                "id": "98",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "92",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "-",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "89",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "95",
+                "type": "blood"
+            },
+            {
+                "id": "96",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "93",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Arkadiusz Cyman",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "90",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "94",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Martyna Jodango",
+        "birth": "1987",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "91",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "97",
+                "type": "blood"
+            },
+            {
+                "id": "98",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "95",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Paweł Dubnicki",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "89",
+                "type": "blood"
+            },
+            {
+                "id": "92",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "96",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "96",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Lonia (?) Dubnicka",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "89",
+                "type": "blood"
+            },
+            {
+                "id": "92",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "95",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "97",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Mikołaj Dubnicki",
+        "birth": "2013",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "91",
+                "type": "blood"
+            },
+            {
+                "id": "94",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "98",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "98",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Igor Dubnicki",
+        "birth": "28.11.2019",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "91",
+                "type": "blood"
+            },
+            {
+                "id": "94",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "97",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "99",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Lucyna Sierocka",
+        "birth": "1948",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "USA",
+        "parents": [
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "47",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "100",
+                "type": "blood"
+            },
+            {
+                "id": "101",
+                "type": "blood"
+            },
+            {
+                "id": "102",
+                "type": "blood"
+            },
+            {
+                "id": "103",
+                "type": "blood"
+            },
+            {
+                "id": "104",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "100",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Zdzisław Sierocki",
+        "birth": "1953",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "47",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "99",
+                "type": "blood"
+            },
+            {
+                "id": "101",
+                "type": "blood"
+            },
+            {
+                "id": "102",
+                "type": "blood"
+            },
+            {
+                "id": "103",
+                "type": "blood"
+            },
+            {
+                "id": "104",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "101",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Marian Sierocki",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "47",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "99",
+                "type": "blood"
+            },
+            {
+                "id": "100",
+                "type": "blood"
+            },
+            {
+                "id": "102",
+                "type": "blood"
+            },
+            {
+                "id": "103",
+                "type": "blood"
+            },
+            {
+                "id": "104",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "102",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Józef Sierocki",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "47",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "99",
+                "type": "blood"
+            },
+            {
+                "id": "100",
+                "type": "blood"
+            },
+            {
+                "id": "101",
+                "type": "blood"
+            },
+            {
+                "id": "103",
+                "type": "blood"
+            },
+            {
+                "id": "104",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "103",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Grzegorz Sierocki",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "47",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "99",
+                "type": "blood"
+            },
+            {
+                "id": "100",
+                "type": "blood"
+            },
+            {
+                "id": "101",
+                "type": "blood"
+            },
+            {
+                "id": "102",
+                "type": "blood"
+            },
+            {
+                "id": "104",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "104",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Ignacy Sierocki",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "42",
+                "type": "blood"
+            },
+            {
+                "id": "47",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "99",
+                "type": "blood"
+            },
+            {
+                "id": "100",
+                "type": "blood"
+            },
+            {
+                "id": "101",
+                "type": "blood"
+            },
+            {
+                "id": "102",
+                "type": "blood"
+            },
+            {
+                "id": "103",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "105",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Lucyna Sierocka",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "43",
+                "type": "blood"
+            },
+            {
+                "id": "48",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "106",
+                "type": "blood"
+            },
+            {
+                "id": "107",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "106",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Alina Sierocka",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "43",
+                "type": "blood"
+            },
+            {
+                "id": "48",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "105",
+                "type": "blood"
+            },
+            {
+                "id": "107",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "107",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Grażyna Sierocka",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "43",
+                "type": "blood"
+            },
+            {
+                "id": "48",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "105",
+                "type": "blood"
+            },
+            {
+                "id": "106",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "108",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Antonii Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "36",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "110",
+                "type": "blood"
+            },
+            {
+                "id": "111",
+                "type": "blood"
+            },
+            {
+                "id": "112",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "113",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "114",
+                "type": "blood"
+            },
+            {
+                "id": "115",
+                "type": "blood"
+            },
+            {
+                "id": "116",
+                "type": "blood"
+            },
+            {
+                "id": "117",
+                "type": "blood"
+            },
+            {
+                "id": "118",
+                "type": "blood"
+            },
+            {
+                "id": "119",
+                "type": "blood"
+            },
+            {
+                "id": "120",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "109",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Maria Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "36",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "110",
+                "type": "blood"
+            },
+            {
+                "id": "111",
+                "type": "blood"
+            },
+            {
+                "id": "112",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "123",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "124",
+                "type": "blood"
+            },
+            {
+                "id": "125",
+                "type": "blood"
+            },
+            {
+                "id": "126",
+                "type": "blood"
+            },
+            {
+                "id": "127",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "110",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Janina Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "36",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "111",
+                "type": "blood"
+            },
+            {
+                "id": "112",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "128",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "129",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "111",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Mieczysław Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "36",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "110",
+                "type": "blood"
+            },
+            {
+                "id": "112",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "130",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "131",
+                "type": "blood"
+            },
+            {
+                "id": "132",
+                "type": "blood"
+            },
+            {
+                "id": "133",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "112",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Czesław Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "29",
+                "type": "blood"
+            },
+            {
+                "id": "36",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "110",
+                "type": "blood"
+            },
+            {
+                "id": "111",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "113",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "nn",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "108",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "114",
+                "type": "blood"
+            },
+            {
+                "id": "115",
+                "type": "blood"
+            },
+            {
+                "id": "116",
+                "type": "blood"
+            },
+            {
+                "id": "117",
+                "type": "blood"
+            },
+            {
+                "id": "118",
+                "type": "blood"
+            },
+            {
+                "id": "119",
+                "type": "blood"
+            },
+            {
+                "id": "120",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "114",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Irena Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "113",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "115",
+                "type": "blood"
+            },
+            {
+                "id": "116",
+                "type": "blood"
+            },
+            {
+                "id": "117",
+                "type": "blood"
+            },
+            {
+                "id": "118",
+                "type": "blood"
+            },
+            {
+                "id": "119",
+                "type": "blood"
+            },
+            {
+                "id": "120",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "115",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Janina (Niuta) Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "113",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "114",
+                "type": "blood"
+            },
+            {
+                "id": "116",
+                "type": "blood"
+            },
+            {
+                "id": "117",
+                "type": "blood"
+            },
+            {
+                "id": "118",
+                "type": "blood"
+            },
+            {
+                "id": "119",
+                "type": "blood"
+            },
+            {
+                "id": "120",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "116",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Helena Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "113",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "114",
+                "type": "blood"
+            },
+            {
+                "id": "115",
+                "type": "blood"
+            },
+            {
+                "id": "117",
+                "type": "blood"
+            },
+            {
+                "id": "118",
+                "type": "blood"
+            },
+            {
+                "id": "119",
+                "type": "blood"
+            },
+            {
+                "id": "120",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "117",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Wiesław Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "113",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "114",
+                "type": "blood"
+            },
+            {
+                "id": "115",
+                "type": "blood"
+            },
+            {
+                "id": "116",
+                "type": "blood"
+            },
+            {
+                "id": "118",
+                "type": "blood"
+            },
+            {
+                "id": "119",
+                "type": "blood"
+            },
+            {
+                "id": "120",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "118",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Sławomir Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "113",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "114",
+                "type": "blood"
+            },
+            {
+                "id": "115",
+                "type": "blood"
+            },
+            {
+                "id": "116",
+                "type": "blood"
+            },
+            {
+                "id": "117",
+                "type": "blood"
+            },
+            {
+                "id": "119",
+                "type": "blood"
+            },
+            {
+                "id": "120",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "119",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Henryk Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "113",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "114",
+                "type": "blood"
+            },
+            {
+                "id": "115",
+                "type": "blood"
+            },
+            {
+                "id": "116",
+                "type": "blood"
+            },
+            {
+                "id": "117",
+                "type": "blood"
+            },
+            {
+                "id": "118",
+                "type": "blood"
+            },
+            {
+                "id": "120",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "120",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Alicja Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "108",
+                "type": "blood"
+            },
+            {
+                "id": "113",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "114",
+                "type": "blood"
+            },
+            {
+                "id": "115",
+                "type": "blood"
+            },
+            {
+                "id": "116",
+                "type": "blood"
+            },
+            {
+                "id": "117",
+                "type": "blood"
+            },
+            {
+                "id": "118",
+                "type": "blood"
+            },
+            {
+                "id": "119",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "123",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "nn Stasiński",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "109",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "124",
+                "type": "blood"
+            },
+            {
+                "id": "125",
+                "type": "blood"
+            },
+            {
+                "id": "126",
+                "type": "blood"
+            },
+            {
+                "id": "127",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "124",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "nn Stasiński",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "123",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "125",
+                "type": "blood"
+            },
+            {
+                "id": "126",
+                "type": "blood"
+            },
+            {
+                "id": "127",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "125",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "nn Stasiński",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "123",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "124",
+                "type": "blood"
+            },
+            {
+                "id": "126",
+                "type": "blood"
+            },
+            {
+                "id": "127",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "126",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "nn Stasińska",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "123",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "124",
+                "type": "blood"
+            },
+            {
+                "id": "125",
+                "type": "blood"
+            },
+            {
+                "id": "127",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "127",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "nn Stasińska",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "109",
+                "type": "blood"
+            },
+            {
+                "id": "123",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "124",
+                "type": "blood"
+            },
+            {
+                "id": "125",
+                "type": "blood"
+            },
+            {
+                "id": "126",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "128",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Waldemar Masalski",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "110",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "129",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "129",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Jan Masalski",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "zam. Warszawa",
+        "parents": [
+            {
+                "id": "110",
+                "type": "blood"
+            },
+            {
+                "id": "128",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "130",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "nn",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "111",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "131",
+                "type": "blood"
+            },
+            {
+                "id": "132",
+                "type": "blood"
+            },
+            {
+                "id": "133",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "131",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Stanisław Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "111",
+                "type": "blood"
+            },
+            {
+                "id": "130",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "132",
+                "type": "blood"
+            },
+            {
+                "id": "133",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "132",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Małgorzata Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "111",
+                "type": "blood"
+            },
+            {
+                "id": "130",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "131",
+                "type": "blood"
+            },
+            {
+                "id": "133",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "133",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Marian Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "",
+        "deathPlace": "",
+        "info": "-",
+        "parents": [
+            {
+                "id": "111",
+                "type": "blood"
+            },
+            {
+                "id": "130",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "131",
+                "type": "blood"
+            },
+            {
+                "id": "132",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "134",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Stefania Grzeszczyk",
+        "birth": "1915",
+        "birthPlace": "Dubowo",
+        "death": "10.12.1917",
+        "deathPlace": "Dubowo",
+        "info": "-",
+        "parents": [
+            {
+                "id": "37",
+                "type": "blood"
+            },
+            {
+                "id": "30",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "135",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Radosława Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "-",
+        "parents": [
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "39",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "136",
+                "type": "blood"
+            },
+            {
+                "id": "137",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "138",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "136",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Leokadia Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "-",
+        "parents": [
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "39",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "135",
+                "type": "blood"
+            },
+            {
+                "id": "137",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "139",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "137",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "nn Grzeszczyk",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "zam. Dubowo",
+        "parents": [
+            {
+                "id": "31",
+                "type": "blood"
+            },
+            {
+                "id": "39",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "135",
+                "type": "blood"
+            },
+            {
+                "id": "136",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "138",
+        "gender": "male",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Jan Rydzewski",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "135",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "139",
+        "gender": "male",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "nn Przekop",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "136",
+                "type": "married"
+            }
+        ],
+        "children": []
+    },
+    {
+        "id": "140",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Franciszek Grzeszczyk",
+        "birth": "1866",
+        "birthPlace": "Szafranki",
+        "death": "9.12.1888",
+        "deathPlace": "Suwałki",
+        "info": "żołnierz, zm. na wojnie, akt. 142/xx",
+        "parents": [
+            {
+                "id": "18",
+                "type": "blood"
+            },
+            {
+                "id": "19",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "141",
+                "type": "blood"
+            },
+            {
+                "id": "142",
+                "type": "blood"
+            },
+            {
+                "id": "143",
+                "type": "blood"
+            },
+            {
+                "id": "144",
+                "type": "blood"
+            },
+            {
+                "id": "145",
+                "type": "blood"
+            }, {
+                "id": "146",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "141",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Marianna Grzeszczyk",
+        "birth": "23.01.1850",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 17/9",
+        "parents": [
+            {
+                "id": "18",
+                "type": "blood"
+            },
+            {
+                "id": "19",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "140",
+                "type": "blood"
+            },
+            {
+                "id": "142",
+                "type": "blood"
+            },
+            {
+                "id": "143",
+                "type": "blood"
+            },
+            {
+                "id": "144",
+                "type": "blood"
+            },
+            {
+                "id": "145",
+                "type": "blood"
+            }, {
+                "id": "146",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "142",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Anna Grzeszczyk",
+        "birth": "07.05.1852",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 78/39",
+        "parents": [
+            {
+                "id": "18",
+                "type": "blood"
+            },
+            {
+                "id": "19",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "140",
+                "type": "blood"
+            },
+            {
+                "id": "141",
+                "type": "blood"
+            },
+            {
+                "id": "143",
+                "type": "blood"
+            },
+            {
+                "id": "144",
+                "type": "blood"
+            },
+            {
+                "id": "145",
+                "type": "blood"
+            }, {
+                "id": "146",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "143",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Jan Grzeszczyk",
+        "birth": "10.05.1854",
+        "birthPlace": "Szafranki",
+        "death": "21.10.1878",
+        "deathPlace": "Szafranki",
+        "info": "akt ur. 57/19, akt zg. 65/64",
+        "parents": [
+            {
+                "id": "18",
+                "type": "blood"
+            },
+            {
+                "id": "19",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "140",
+                "type": "blood"
+            },
+            {
+                "id": "141",
+                "type": "blood"
+            },
+            {
+                "id": "142",
+                "type": "blood"
+            },
+            {
+                "id": "144",
+                "type": "blood"
+            },
+            {
+                "id": "145",
+                "type": "blood"
+            }, {
+                "id": "146",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "147",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "148",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "144",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Andrzej Grzeszczyk",
+        "birth": "1857",
+        "birthPlace": "Szafranki",
+        "death": "18.11.1879",
+        "deathPlace": "Szafranki",
+        "info": "akt zg. 96/91",
+        "parents": [
+            {
+                "id": "18",
+                "type": "blood"
+            },
+            {
+                "id": "19",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "140",
+                "type": "blood"
+            },
+            {
+                "id": "141",
+                "type": "blood"
+            },
+            {
+                "id": "142",
+                "type": "blood"
+            },
+            {
+                "id": "143",
+                "type": "blood"
+            },
+            {
+                "id": "145",
+                "type": "blood"
+            }, {
+                "id": "146",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "145",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Piotr Grzeszczyk",
+        "birth": "05.09.1859",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 152/51",
+        "parents": [
+            {
+                "id": "18",
+                "type": "blood"
+            },
+            {
+                "id": "19",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "140",
+                "type": "blood"
+            },
+            {
+                "id": "141",
+                "type": "blood"
+            },
+            {
+                "id": "142",
+                "type": "blood"
+            },
+            {
+                "id": "143",
+                "type": "blood"
+            },
+            {
+                "id": "144",
+                "type": "blood"
+            }, {
+                "id": "146",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "146",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Grzegorz Grzeszczyk",
+        "birth": "03.08.1862",
+        "birthPlace": "Szafranki",
+        "death": "21.03.1916",
+        "deathPlace": "Szafranki",
+        "info": "akt ur. 132/45, akt zg. 19/xx; w 1924 r. sprawa o spadek przed Sądem Pokoju",
+        "parents": [
+            {
+                "id": "18",
+                "type": "blood"
+            },
+            {
+                "id": "19",
+                "type": "blood"
+            }
+        ],
+        "siblings": [
+            {
+                "id": "140",
+                "type": "blood"
+            },
+            {
+                "id": "141",
+                "type": "blood"
+            },
+            {
+                "id": "142",
+                "type": "blood"
+            },
+            {
+                "id": "143",
+                "type": "blood"
+            },
+            {
+                "id": "144",
+                "type": "blood"
+            }, {
+                "id": "145",
+                "type": "blood"
+            }
+        ],
+        "spouses": [
+            {
+                "id": "149",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "150",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "147",
+        "gender": "female",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Katarzyna Omilian",
+        "birth": "?",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "-",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "143",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "148",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "148",
+        "gender": "female",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Franciszka Grzeszczyk",
+        "birth": "27.01.1878",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 16/xx",
+        "parents": [
+            {
+                "id": "143",
+                "type": "blood"
+            },
+            {
+                "id": "147",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [],
+        "children": []
+    },
+    {
+        "id": "149",
+        "gender": "female",
+        "image": "https://us.123rf.com/450wm/mrswilkins/mrswilkins1705/mrswilkins170500010/80934381-ilustracja-zdj%C4%99cia-profilowego-kobieta-wektor.jpg?ver=6",
+        "name": "Marianna Dominiuk",
+        "birth": "1861",
+        "birthPlace": "?",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "zm. po 1916",
+        "parents": [],
+        "siblings": [],
+        "spouses": [
+            {
+                "id": "146",
+                "type": "married"
+            }
+        ],
+        "children": [
+            {
+                "id": "150",
+                "type": "blood"
+            }
+        ]
+    },
+    {
+        "id": "150",
+        "gender": "male",
+        "image": "https://st3.depositphotos.com/4111759/13425/v/450/depositphotos_134255634-stock-illustration-avatar-icon-male-profile-gray.jpg?forcejpeg=true",
+        "name": "Józef Grzeszczyk",
+        "birth": "25.01.1885",
+        "birthPlace": "Szafranki",
+        "death": "?",
+        "deathPlace": "?",
+        "info": "akt ur. 7/6",
+        "parents": [
+            {
+                "id": "146",
+                "type": "blood"
+            },
+            {
+                "id": "149",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [],
+        "children": []
+    }
+]

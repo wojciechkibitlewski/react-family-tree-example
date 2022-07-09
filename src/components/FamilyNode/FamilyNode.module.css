@@ -5,18 +5,22 @@
 }
 
 .inner {
-  display: flex;
-  flex: 1;
-  border: 2px solid rgba(0, 0, 0, .2);
-  border-radius: 10px 0;
+  border: 1px solid #eee;
+  background-color: #fff;
+  padding: 5px;
+  box-shadow: 0px 0px 6px #eee;
+  
+  font-size: 0.9em;
+  
 }
 
 .male {
-  background: #a4ecff;
+  background: #eaf0f2;
 }
 
+
 .female {
-  background: #fdaed8;
+  background: #f6ecf2;
 }
 
 .isRoot {
@@ -42,3 +46,70 @@
 .sub.female {
   background: #a4ecff;
 }
+
+
+.familyCard {
+  width: 250px;
+  height: 250px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0px 0px 10px #eee;
+  font-size: 0.9em;
+  text-align: center;
+  margin-top: 50px;
+  margin-left:30px;
+  margin-right: 30px;
+}
+.familyCard img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-top: -40px;
+  border: 1px solid #eee;
+  box-shadow: 0px 0px 6px #eee;
+}
+.familyCard h2 {
+  text-transform: uppercase;
+  font-size: 1.2em;
+  margin: 5px 0;
+  padding: 0;
+}
+.dateHd  {
+  display: flex;
+  justify-content: space-around;
+  padding: 2px;
+  background-color: #ddd;
+}
+.dateHd div {
+  width: 50%;
+}
+.dateHd div:first-child {
+  border-right: 1px solid #fff;
+}
+.dateHd p {
+  margin: 0;
+  padding: 0;
+}
+
+.date {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+  background-color: #fff;
+}
+.date div {
+  width: 50%;
+}
+.date div:first-child {
+  border-right: 1px solid #fff;
+}
+.date p {
+  margin: 0;
+  padding: 0;
+}
+
+.info {
+  padding: 10px;
+}
+

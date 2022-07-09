@@ -4,41 +4,27 @@ import ReactFamilyTree from 'react-family-tree';
 import PinchZoomPan from '../PinchZoomPan/PinchZoomPan';
 import FamilyNode from '../FamilyNode/FamilyNode';
 
-import averageTree from 'relatives-tree/samples/average-tree.json';
-import couple from 'relatives-tree/samples/couple.json';
-import diffParents from 'relatives-tree/samples/diff-parents.json';
-import divorcedParents from 'relatives-tree/samples/divorced-parents.json';
-import empty from 'relatives-tree/samples/empty.json';
-import severalSpouses from 'relatives-tree/samples/several-spouses.json';
-import simpleFamily from 'relatives-tree/samples/simple-family.json';
-import testTreeN1 from 'relatives-tree/samples/test-tree-n1.json';
-import testTreeN2 from 'relatives-tree/samples/test-tree-n2.json';
+import family from '../../family.json';
 
 import styles from './App.module.css';
 
-const WIDTH = 70;
-const HEIGHT = 80;
+const WIDTH = 300;
+const HEIGHT = 340;
 
-const DEFAULT_SOURCE = 'average-tree.json'
+const DEFAULT_SOURCE = 'family.json'
 
 type Source = Array<Node>
 
 const SOURCES: { [key: string]: Source } = {
-  'average-tree.json': averageTree as Source,
-  'couple.json': couple as Source,
-  'diff-parents.json': diffParents as Source,
-  'divorced-parents.json': divorcedParents as Source,
-  'empty.json': empty as Source,
-  'several-spouses.json': severalSpouses as Source,
-  'simple-family.json': simpleFamily as Source,
-  'test-tree-n1.json': testTreeN1 as Source,
-  'test-tree-n2.json': testTreeN2 as Source
+  'family.json': family as Source
+
 }
 
 const URL = 'URL (Gist, Paste.bin, ...)'
 
 export default React.memo<{}>(
   function App() {
+    
     const [source, setSource] = useState<string>(DEFAULT_SOURCE);
     const [nodes, setNodes] = useState<Source>([]);
     const [myId, setMyId] = useState<string>('');
@@ -71,34 +57,30 @@ export default React.memo<{}>(
     const onSetSource = (event: React.ChangeEvent<HTMLSelectElement>) => {
       setSource(event.target.value)
     }
-
+ 
     const sources = {
       ...SOURCES,
       [URL]: []
     }
+    
+    //const sources = family;
 
     return (
       <div className={styles.root}>
         <header className={styles.header}>
           <h1 className={styles.title}>
-            FamilyTree demo
+            Drzewo genealogiczne Grzeszczyk od 1766 roku
           </h1>
 
-          <div>
-            <span>Source: </span>
-            <select onChange={onSetSource} defaultValue={source}>
-              {Object.keys(sources).map((item) => (
-                <option key={item} value={item}>{item}</option>
-              ))}
-            </select>
-          </div>
+          
 
-          <a href="https://github.com/SanichKotikov/react-family-tree-example">GitHub</a>
+          
         </header>
+        <React.StrictMode>
         {nodes.length > 0 && (
           <PinchZoomPan
-            min={0.5}
-            max={2.5}
+            min={0.1}
+            max={1.5}
             captureWheel
             className={styles.wrapper}
           >
@@ -108,7 +90,7 @@ export default React.memo<{}>(
               width={WIDTH}
               height={HEIGHT}
               className={styles.tree}
-              renderNode={(node: ExtNode) => (
+              renderNode={(node) => (
                 <FamilyNode
                   key={node.id}
                   node={node}
@@ -124,11 +106,13 @@ export default React.memo<{}>(
             />
           </PinchZoomPan>
         )}
+        </React.StrictMode>
         {rootId !== myId && (
           <div className={styles.reset} onClick={onResetClick}>
             Reset
           </div>
         )}
+        
       </div>
     );
   }
